@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Workflow-Automation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Workflow-Automation-Platform?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Workflow-Automation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Workflow-Automation-Platform?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Workflow-Automation-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Workflow-Automation-Platform?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Workflow-Automation-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,48 +72,48 @@ The table below catalogs premier SaaS workflow automation and iPaaS platforms, s
 
 ## 🐙 Open-Source GitHub Projects
 
-Leading open-source workflow automation and integration repositories, sorted in descending order by **GitHub Stars**:
+Leading open-source workflow automation and integration repositories, sorted in descending order by **GitHub_Stars**:
 
-- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   The leading open-source workflow automation platform (Sustainable Use License); combines a visual node-canvas with custom JavaScript/Python code; features 1,500+ community and official integrations, 9,000+ workflow templates, and native multi-model AI agent orchestration nodes (OpenAI, Anthropic, Google Gemini, Ollama, Hugging Face); fully self-hostable via Docker with enterprise RBAC, credential encryption, and audit logs.
 
-- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
+- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
   Industry-standard programmatic workflow and data pipeline orchestration platform (Apache 2.0); defines workflows as Directed Acyclic Graphs (DAGs) using pure Python code; massive ecosystem of connectors, distributed task execution (Celery, Kubernetes), and deep monitoring.
 
-- **[Huginn](https://github.com/huginn/huginn)** [![GitHub stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
+- **[Huginn](https://github.com/huginn/huginn)** [![GitHub_Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
   Battle-tested, self-hosted system for building automated agents that monitor the web and take actions on your behalf (MIT License, Ruby); operates like a private, hackable IFTTT/Zapier with configurable event watchers, scrapers, digest emails, and webhook emitters.
 
-- **[Kestra](https://github.com/kestra-io/kestra)** [![GitHub stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers)  
+- **[Kestra](https://github.com/kestra-io/kestra)** [![GitHub_Stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers)  
   Modern, event-driven, language-agnostic declarative orchestrator (Apache 2.0); defines both business automations and data workflows via intuitive YAML definitions and built-in UI; handles microservices orchestration, scheduled tasks, and real-time triggers with sub-millisecond execution.
 
-- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
   Open-source no-code automation tool designed as a privacy-first, community-driven Zapier alternative (MIT License); features TypeScript-based pieces, intuitive drag-and-drop canvas, npm-powered extensible connectors, and native webhook streaming.
 
-- **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
+- **[Temporal](https://github.com/temporalio/temporal)** [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
   Durable execution platform for building resilient, code-first workflows (MIT License); guarantees workflow state preservation across server crashes, network failures, and infrastructure restarts across Go, TypeScript, Python, and Java.
 
-- **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
+- **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub_Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
   Extremely fast developer-first open-source alternative to Retool, Temporal, and Zapier (AGPL-3.0); turn scripts written in Python, TypeScript, Go, Bash, or SQL into auto-generated internal UIs, scheduled cron jobs, and high-throughput multi-step workflows.
 
-- **[Automatisch](https://github.com/automatisch/automatisch)** [![GitHub stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers)  
+- **[Automatisch](https://github.com/automatisch/automatisch)** [![GitHub_Stars](https://img.shields.io/github/stars/automatisch/automatisch?style=social&color=white)](https://github.com/automatisch/automatisch/stargazers)  
   Self-hosted, privacy-first Zapier alternative (AGPL-3.0); allows connecting software without leaking sensitive customer information to third-party cloud services; perfect for GDPR, HIPAA, and compliance-sensitive operations.
 
-- **[Pipedream](https://github.com/PipedreamHQ/pipedream)** [![GitHub stars](https://img.shields.io/github/stars/PipedreamHQ/pipedream?style=social&color=white)](https://github.com/PipedreamHQ/pipedream/stargazers)  
+- **[Pipedream](https://github.com/PipedreamHQ/pipedream)** [![GitHub_Stars](https://img.shields.io/github/stars/PipedreamHQ/pipedream?style=social&color=white)](https://github.com/PipedreamHQ/pipedream/stargazers)  
   Source-available developer automation platform and open component registry; provides pre-built actions and triggers for thousands of APIs that can be combined with custom Node.js, Python, or Go steps; trusted by over 1,000,000 developers.
 
-- **[RuleGo](https://github.com/rulego/rulego)** [![GitHub stars](https://img.shields.io/github/stars/rulego/rulego?style=social&color=white)](https://github.com/rulego/rulego/stargazers)  
+- **[RuleGo](https://github.com/rulego/rulego)** [![GitHub_Stars](https://img.shields.io/github/stars/rulego/rulego?style=social&color=white)](https://github.com/rulego/rulego/stargazers)  
   Lightweight, high-performance, embedded component orchestration rule engine and workflow framework for Go (Apache 2.0); perfect for IoT edge computing, event routing, and heterogeneous data transformation.
 
-- **[µTask](https://github.com/ovh/utask)** [![GitHub stars](https://img.shields.io/github/stars/ovh/utask?style=social&color=white)](https://github.com/ovh/utask/stargazers)  
+- **[µTask](https://github.com/ovh/utask)** [![GitHub_Stars](https://img.shields.io/github/stars/ovh/utask?style=social&color=white)](https://github.com/ovh/utask/stargazers)  
   Declarative, idempotent automation engine developed by OVHcloud (Apache 2.0); models and executes business processes declared in YAML with built-in rollback capabilities and resolution workflows.
 
-- **[ByteChef](https://github.com/bytechefhq/bytechef)** [![GitHub stars](https://img.shields.io/github/stars/bytechefhq/bytechef?style=social&color=white)](https://github.com/bytechefhq/bytechef/stargazers)  
+- **[ByteChef](https://github.com/bytechefhq/bytechef)** [![GitHub_Stars](https://img.shields.io/github/stars/bytechefhq/bytechef?style=social&color=white)](https://github.com/bytechefhq/bytechef/stargazers)  
   Open-source, low-code API integration and workflow automation engine (Apache 2.0); Java-based extensible platform designed for embedding iPaaS capabilities inside B2B SaaS applications.
 
-- **[Flowpipe](https://github.com/turbot/flowpipe)** [![GitHub stars](https://img.shields.io/github/stars/turbot/flowpipe?style=social&color=white)](https://github.com/turbot/flowpipe/stargazers)  
+- **[Flowpipe](https://github.com/turbot/flowpipe)** [![GitHub_Stars](https://img.shields.io/github/stars/turbot/flowpipe?style=social&color=white)](https://github.com/turbot/flowpipe/stargazers)  
   Cloud scripting and DevOps workflow engine (AGPL-3.0); connects cloud APIs, code, and systems with simple HCL/YAML pipelines for infrastructure operations, incident response, and security remediations.
 
-- **[PneumaticWorkflow](https://github.com/pneumaticapp/pneumaticworkflow)** [![GitHub stars](https://img.shields.io/github/stars/pneumaticapp/pneumaticworkflow?style=social&color=white)](https://github.com/pneumaticapp/pneumaticworkflow/stargazers)  
+- **[PneumaticWorkflow](https://github.com/pneumaticapp/pneumaticworkflow)** [![GitHub_Stars](https://img.shields.io/github/stars/pneumaticapp/pneumaticworkflow?style=social&color=white)](https://github.com/pneumaticapp/pneumaticworkflow/stargazers)  
   Lightweight Python-based workflow automation engine (Apache 2.0); streamlined templates for standard operating procedures (SOPs), repeatable business tasks, and team process routing.
 
 ---
